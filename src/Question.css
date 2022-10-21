@@ -1,0 +1,15 @@
+.question-box {
+    margin: 0;
+    padding: 10px 0;
+    border-bottom: 0.794239px solid #DBDEF0;
+    width: 50%
+}
+.question {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #293264;
+    margin: 10px 0;
+}

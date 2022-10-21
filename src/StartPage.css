@@ -1,0 +1,47 @@
+.start-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh
+}
+
+.quizzical {
+    width: 412px;
+    height: 41px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31.25px;
+    line-height: 37px;
+    text-align: center;
+    color: #293264;
+    margin-bottom: 10px
+}
+
+.welcome {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #293264;
+}
+
+.start-button {
+    border: none    ;
+    width: 193px;
+    height: 52px;
+    background: #4D5B9E;
+    border-radius: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center; 
+    color: #F5F7FB;
+    cursor: pointer;
+
+}

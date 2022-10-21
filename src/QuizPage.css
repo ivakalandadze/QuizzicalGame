@@ -1,0 +1,58 @@
+.quiz-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+.check-button {
+    margin: 20px 0;
+    width: 120px;
+    height: 35px;
+    background: #4D5B9E;
+    border: none;
+    border-radius: 10px; 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10.24px;
+    line-height: 12px;
+    text-align: center;
+    color: #F5F7FB;   
+    cursor: pointer;
+}
+
+.check-answers-box {
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.score{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #293264;
+}
+
+.play-again-button {
+    width: 104px;
+    height: 30px;
+    background: #4D5B9E;
+    border: none;
+    border-radius: 10px; 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10.24px;
+    line-height: 12px;
+    text-align: center;
+    color: #F5F7FB;   
+    cursor: pointer;
+}
